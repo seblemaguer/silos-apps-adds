@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories={category}
+Comment={desc}
+Exec=silo -a {qtws}
+GenericName={name}
+Icon=silo-{icon}
+MimeType=
+Name={name}
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-{qtws}

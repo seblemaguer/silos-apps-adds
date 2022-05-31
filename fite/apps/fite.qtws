@@ -1,0 +1,14 @@
+{
+    "name": "Fite",
+    "scope": ["fite.tv"],
+    "plugins": [
+        { "name": "ChangeUserAgent", "user-agent": "chrome" },
+        { "name" : "Multimedia" },
+        { "name": "FloatingWindow" },
+        { "name": "TrayIcon" }
+    ],
+    "home": "https://fite.tv",
+    "icon": "icons/fite.svg",
+    "saveSession": true,
+    "menuDisabled": true
+}

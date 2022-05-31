@@ -1,0 +1,9 @@
+{
+  "desc": "Standalone silo app for Fite website",
+  "dependencies": [
+      "chromium-widevine",
+      "python-pystray"
+  ],
+  "category": "Internet;AudioVideo;",
+  "version": "0.5"
+}

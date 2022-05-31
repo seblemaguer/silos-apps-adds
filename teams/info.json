@@ -1,6 +1,8 @@
 {
-  "desc": "Standalone silo app for Teams",
-  "dependencies": [
-  ],
-  "version": "0.1"
+    "desc": "Standalone silo app for Teams",
+    "dependencies": [
+        "python-pystray"
+    ],
+    "category": "Internet;AudioVideo;WebConferencing;Chat",
+    "version": "0.5"
 }
